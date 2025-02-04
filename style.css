@@ -6,3 +6,6 @@
     padding: 100px;
     /* this is not ideal.  Ideally we would exclusively use BS classes for this project, but whatever, I gotta move on. perhaps return later.  */
 }
+.pup {
+    width: 60px;
+}
